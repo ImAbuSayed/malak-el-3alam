@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا ملاك العالم خذ قلبي معاك
+> أنت نور العيون وكل مناي
+> في ظلام الليل أبحث عن هواك
+> لا أرى في الكون أحدا سواك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
