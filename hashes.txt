@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Malak El 3alam
+
+This log tracks the cryptographic history and versioning for the song **Malak El 3alam** (malak-el-3alam).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T19:41:19.602439 | `v1` | `4916b21f50f96693ba40ae437ab0030276a7da8e2bc4a4c25105dc713c9321c9` | `746168610f4a7806c8b3d62499065b829e8b9448b7c52f74c62197cb0db55184` | `2026-05-08_malak-el-3alam-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
